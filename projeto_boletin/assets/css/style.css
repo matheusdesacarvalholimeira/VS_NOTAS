@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #32ff88;
+}
+nav{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center; 
+}
+a{
+    text-decoration: none;
+    font-size: 25px;
+   color: #fff;
+   padding: 16px;
+}
+form{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    color: #fff;
+}
+p{
+    color: #fff;
+}
